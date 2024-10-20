@@ -1,6 +1,9 @@
 # ArTailor
 Using AI to help artists, not replace them
 
+## Google Colab Link
+https://colab.research.google.com/drive/1N6jfXOUB3qF3oNuN7Bnr9x9Q0kaIGc99?usp=sharing
+
 ## Inspiration
 We were inspired by controversies over the use of AI for art and GenAI threatening human artists. We wanted to be able to show that AI can and should be used as a tool to help artists, instead of entirely replacing them. 
 
@@ -15,9 +18,6 @@ We're proud of the overall design of the "website" and its intended user interfa
 We learned a lot about writing code in general. All four of us are relatively new to Hackathons and creating independent projects, so this was a nice learning experience overall. 
 
 We are thinking of fully developing this project in the future with more time, as we are genuinely passionate about using AI as a tool for artists rather than something to replace them entirely. 
-
-## Google Colab Link
-https://colab.research.google.com/drive/1N6jfXOUB3qF3oNuN7Bnr9x9Q0kaIGc99?usp=sharing
 
 # Google Colab Disclaimers
 Sometimes the image may fail to load if selecting an image from your files- this is likely due to the uploaded file size or browser issues. Please try again with a smaller, or use a URL instead
