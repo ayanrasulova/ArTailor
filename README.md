@@ -6,7 +6,7 @@ Using AI to help artists, not replace them
 ## Inspiration
 ArTailor was inspired by controversies over the use of AI for art and GenAI threatening human artists. We wanted to be able to show that AI can and should be used as a tool to help artists, instead of entirely replacing them. 
 
-Our intention is to use ControlNet software to help artists compare their drawings' anatomy to their references. Besides ControlNet image processing, we also plan on this website consolidating other tools to help artists, such as color palette generators and color matchers.
+Our intention is to help artists compare their drawings' anatomy to their references using image comparison tools, primarily via ControlNet software. Besides ControlNet image processing, we also plan on this website consolidating other tools to help artists, such as color palette generators and color matchers.
 
 ControlNet auxiliary models taken from [ControlNet Annotators](https://github.com/lllyasviel/ControlNet/tree/main/annotator). All credit & copyright for ControlNet goes to https://github.com/lllyasviel.
 
