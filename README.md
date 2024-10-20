@@ -8,6 +8,8 @@ ArTailor was inspired by controversies over the use of AI for art and GenAI thre
 
 Our intention is to use ControlNet (OpenPose, LineArt, MLSD) software to help artists compare their drawings' anatomy to their references. Besides ControlNet image processing, we also plan on this websits consolidating other tools to help artists, such as color palette generators and color matchers.
 
+ControlNet auxiliary models taken from [ControlNet Annotators](https://github.com/lllyasviel/ControlNet/tree/main/annotator). All credit & copyright for ControlNet goes to https://github.com/lllyasviel.
+
 ## Feautures
 ### ControlNet Image Processing
 ControlNet image processing software is used to help artists compare their drawings' anatomy to their references. We demonstrate the usage of ControlNet in the ArTailor.ipynb file, which can also be viewed using [this](https://colab.research.google.com/drive/1N6jfXOUB3qF3oNuN7Bnr9x9Q0kaIGc99?usp=sharing) Google Colab.
