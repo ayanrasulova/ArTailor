@@ -30,6 +30,7 @@ Please make sure to run the following commands in terminal before:
 - pip install opencv-python
 - pip install numpy
 - pip install Pillow
+  
 If that doesnt work still, then run these commands in terminal:
 - python3 -m pip install opencv-python
 - python3 -m pip install numpy 
