@@ -10,7 +10,7 @@ Our intention is to use ControlNet (OpenPose, LineArt, MLSD) software to help ar
 
 ## Feautures
 ### ControlNet Image Processing
-ControlNet image processing software is used to help artists compare their drawings' anatomy to their references. We demonstrate the usage of ControlNet in the ArTailor.ipynb file, which can also be viewed using this[https://colab.research.google.com/drive/1N6jfXOUB3qF3oNuN7Bnr9x9Q0kaIGc99?usp=sharing] Google Colab.
+ControlNet image processing software is used to help artists compare their drawings' anatomy to their references. We demonstrate the usage of ControlNet in the ArTailor.ipynb file, which can also be viewed using [this](https://colab.research.google.com/drive/1N6jfXOUB3qF3oNuN7Bnr9x9Q0kaIGc99?usp=sharing) Google Colab.
 
 #### Google Colab Disclaimers
 Sometimes the image may fail to load if selecting an image from your files- this may be due to file size or file type. Please try again with a smaller iamge, or ensure that files are of standard image types
