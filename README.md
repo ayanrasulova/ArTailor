@@ -1,6 +1,9 @@
 # ArTailor
 Using AI to help artists, not replace them
 
+![logo](https://github.com/user-attachments/assets/84dc2c9a-6e33-46e0-854c-2948aed51888)
+
+
 ## Google Colab Link
 https://colab.research.google.com/drive/1N6jfXOUB3qF3oNuN7Bnr9x9Q0kaIGc99?usp=sharing
 
