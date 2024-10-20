@@ -25,7 +25,6 @@ We are thinking of fully developing this project in the future with more time, a
 # Google Colab Disclaimers
 Sometimes the image may fail to load if selecting an image from your files- this is likely due to the uploaded file size or browser issues. Please try again with a smaller, or use a URL instead
 
-
 # Image Compare Disclaimer
 Please make sure to run the following commands in terminal before: 
 - pip install opencv-python
@@ -35,6 +34,13 @@ If that doesnt work still, then run these commands in terminal:
 - python3 -m pip install opencv-python
 - python3 -m pip install numpy 
 - python3 -m pip install Pillow
+
+# Example User Interface
+![interfaceidea](https://github.com/user-attachments/assets/045fd320-c933-49fd-8293-7eabb881726e)
+
+
+
+
 
 
 
