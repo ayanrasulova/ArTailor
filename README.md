@@ -8,17 +8,18 @@ Using AI to help artists, not replace them
 https://colab.research.google.com/drive/1N6jfXOUB3qF3oNuN7Bnr9x9Q0kaIGc99?usp=sharing
 
 ## Inspiration
-We were inspired by controversies over the use of AI for art and GenAI threatening human artists. We wanted to be able to show that AI can and should be used as a tool to help artists, instead of entirely replacing them. 
+ArTailor was inspired by controversies over the use of AI for art and GenAI threatening human artists. We wanted to be able to show that AI can and should be used as a tool to help artists, instead of entirely replacing them. 
 
-Our intention is to use ControlNet (OpenPose, LineArt, MLSD) software to help artists compare their drawings' anatomy to their references. We were also planning on this website including more tools to help artists, which we included in our attached slides. 
+Our intention is to use ControlNet (OpenPose, LineArt, MLSD) software to help artists compare their drawings' anatomy to their references. Besides ControlNet image processing, we also plan on this websits consolidating other tools to help artists, such as color palette generators and color matchers.
 
-We were able to get ControlNet working with Python using a Google Colab fork collaboration from an open source library. 
+We demonstrate the usage of ControlNet in the ArTailor.ipynb file, which can also be viewed using the Google Colab link.
 
-It was difficult at first to figure out a way to iterate through URLS and direct uploads rather than using just zip files, but we were able to overcome that and get the URLs/direct uploads to work. 
+While we weren't able to build a prototype of the working website, we did create a design plan for the user interface.
 
-We're proud of the overall design of the "website" and its intended user interface. We unfortunately weren't able to get the actual website working as we spent most of our time figuring out the pose estimation, but we were able to plan out how we would like the user interface to appear. 
+## Reflection/Next Steps
+It was difficult at first to figure out how to allow users to upload files, but we were able to overcome that and provide options for URLs/direct uploads. 
 
-We learned a lot about writing code in general. All four of us are relatively new to Hackathons and creating independent projects, so this was a nice learning experience overall. 
+From this project, we learned more about the capabilities of AI and how they should be taken into consideration when creating AI tools. All four of us are relatively new to Hackathons and creating independent projects, so this was a good learning experience overall. 
 
 We are thinking of fully developing this project in the future with more time, as we are genuinely passionate about using AI as a tool for artists rather than something to replace them entirely. 
 
