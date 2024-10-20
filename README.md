@@ -14,7 +14,7 @@ Our intention is to use ControlNet (OpenPose, LineArt, MLSD) software to help ar
 
 We were able to get ControlNet working with Python using a Google Colab fork collaboration from an open source library. 
 
-It was difficult at first to figure out a way to iterate through a drive folder rather than using just zip files, but we were able to overcome that and get the drive link to work. 
+It was difficult at first to figure out a way to iterate through URLS and direct uploads rather than using just zip files, but we were able to overcome that and get the URLs/direct uploads to work. 
 
 We're proud of the overall design of the "website" and its intended user interface. We unfortunately weren't able to get the actual website working as we spent most of our time figuring out the pose estimation, but we were able to plan out how we would like the user interface to appear. 
 
