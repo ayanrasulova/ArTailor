@@ -21,6 +21,7 @@ Sometimes the image may fail to load if selecting an image from your files- this
 `imagecompare.py` takes two images and allows the user to compare them using a back-and-forth slider. This tool is useful for artists to compare their own work to reference images to see how closely they match.
 
 #### Image Compare Disclaimer
+!! Make sure you are using Python 3.11 or higher as your environment.
 Please make sure to run the following commands in terminal before: 
 - pip install opencv-python
 - pip install numpy
