@@ -22,6 +22,7 @@ Sometimes the image may fail to load if selecting an image from your files- this
 
 #### Image Compare Disclaimer
 !! Make sure you are using Python 3.11 or higher as your environment.
+
 Please make sure to run the following commands in terminal before: 
 - pip install opencv-python
 - pip install numpy
