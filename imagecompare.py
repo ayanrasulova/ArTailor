@@ -5,6 +5,7 @@ from tkinter import filedialog
 from PIL import Image, ImageTk
 
 #READ!!!!
+# make sure python environment is 3.11 or higher
 # please make sure to run the following commands in terminal before: 
 # pip install opencv-python
 # pip install numpy
