@@ -18,7 +18,7 @@ ControlNet image processing software is used to help artists compare their drawi
 Sometimes the image may fail to load if selecting an image from your files- this may be due to file size or file type. Please try again with a smaller iamge, or ensure that files are of standard image types
 
 ### Image Compare
-[insert description of image compare program]
+`imagecompare.py` takes two images and allows the user to compare them using a back-and-forth slider. This tool is useful for artists to compare their own work to reference images to see how closely they match.
 
 #### Image Compare Disclaimer
 Please make sure to run the following commands in terminal before: 
