@@ -24,11 +24,11 @@ Sometimes the image may fail to load if selecting an image from your files- this
 
 
 # Image Compare Disclaimer
-please make sure to run the following commands in terminal before: 
+Please make sure to run the following commands in terminal before: 
 - pip install opencv-python
 - pip install numpy
 - pip install Pillow
-if that doesnt work still, then run these commands in terminal ...
+If that doesnt work still, then run these commands in terminal:
 - python3 -m pip install opencv-python
 - python3 -m pip install numpy 
 - python3 -m pip install Pillow
